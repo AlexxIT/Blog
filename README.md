@@ -10,6 +10,7 @@ Here you can:
 - copy links to issues and comments
 - search inside issues and filter by tags
 
+Please, leave comments in english, so anyone can understand you.  
 Please, don't create new issues inside this repo. It's only for blog.
 
 PS. Thanks [@sorrycc](https://github.com/sorrycc/blog) for idea
